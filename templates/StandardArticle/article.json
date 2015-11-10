@@ -1,0 +1,463 @@
+{
+  "version": "1.0",
+  "identifier": "R29_Standard_Article",
+  "title": "Refinery29 Standard Article",
+  "subtitle": "Refinery29 Standard Article Subtitle",
+  "language": "en",
+  "layout": {
+    "columns": 7,
+    "width": 1024,
+    "margin": 80,
+    "gutter": 40
+  },
+  "metadata": {
+    "datePublished": "2015-10-24T11:15:00+00:00",
+    "dateCreated": "2015-10-24T11:15:00+00:00",
+    "dateModified": "2015-10-24T11:15:00+00:00",
+    "authors": [
+      "Refinery"
+    ],
+    "generatorName": "Generator",
+    "generatorVersion": "1.0",
+    "thumbnailURL": "bundle://image.jpg",
+    "canonicalURL": "http://www.refinery29.com",
+    "keywords": [
+      "China",
+      "Business",
+      "Industry",
+      "Culture"
+    ],
+    "excerpt": "Hillary Clinton Takes On Donald Trump At Vegas Protest"
+  },
+  "components": [
+    {
+      "role": "figure",
+      "URL": "bundle://image.jpg",
+      "layout": "bodyImageLayout",
+      "animation": {
+        "type": "appear"
+      }
+    },
+    {
+      "role": "byline",
+      "text": "  Photo by AP",
+      "layout": "attributionLayout",
+      "textStyle": "attributionStyle"
+    },
+    {
+      "role": "title",
+      "text": "Hillary Clinton Takes On Donald Trump At Vegas Protest",
+      "layout": "titleLayout",
+      "textStyle": "titleStyle"
+    },
+    {
+      "role": "divider",
+      "layout": {
+        "columnStart": 2,
+        "columnSpan": 6
+      },
+      "stroke": {
+        "color": "#e8e8e8",
+        "width": 1
+      }
+    },
+    {
+      "role": "byline",
+      "text": "Meredith Clark - November 3, 2015 10:40 AM",
+      "layout": "bylineLayout",
+      "textStyle": "bylineStyle"
+    },
+    {
+      "role": "divider",
+      "layout": {
+        "columnStart": 0,
+        "columnSpan": 7
+      },
+      "stroke": {
+        "color": "#e8e8e8",
+        "width": 1
+      }
+    },
+    {
+      "role": "body",
+      "text": "Hillary Clinton took time from prepping for tonight's Democratic presidential debate to lend support to protesters at one of Donald Trump's Las Vegas hotels. The former Secretary of State spoke to labor activists on Monday afternoon.",
+      "layout": "bodyLayout",
+      "textStyle": "bodyStyle"
+    },
+    {
+      "role": "heading",
+      "text": "Here Is a Headline One",
+      "layout": "h1Layout",
+      "textStyle": "h1Style"
+    },
+    {
+      "role": "body",
+      "text": "\"When we're here together in solidarity to organize, we also want to send a message to Mr. Trump: that if you're going to run for president, then you should represent all the people of the United States, and that includes hard-working people,\" Clinton said at the Trump International Hotel. Not only has Trump insulted immigrants and promised to deport 11 million people if he is elected president, but workers in many of his properties reportedly face low wages and difficult conditions.",
+      "layout": "bodyLayout",
+      "textStyle": "bodyStyle",
+      "format": "markdown"
+    },
+    {
+      "role": "pullquote",
+      "text": "\u201c \n  If you're going to run for president, then you should represent all the people of the United States, and that includes hard-working people. \n \n\u201d",
+      "layout": "pullquoteLayout",
+      "textStyle": "pullquoteStyle",
+      "inlineTextStyles": [
+        {
+          "rangeStart": 0,
+          "rangeLength": 3,
+          "textStyle": {
+            "fontName": "PlayfairDisplay-Bold",
+            "fontSize": 48,
+            "lineHeight": 1,
+            "textColor": "#CCC"
+          }
+        },
+        {
+          "rangeStart": 146,
+          "rangeLength": 5,
+          "textStyle": {
+            "fontName": "PlayfairDisplay-Bold",
+            "fontSize": 48,
+            "lineHeight": 1,
+            "textColor": "#CCC"
+          }
+        }
+      ]
+    },
+    {
+      "role": "byline",
+      "text": "\u2014 Hillary Clinton",
+      "layout": "pullquotebylineLayout",
+      "textStyle": "pullquotebylineStyle"
+    },
+    {
+      "role": "body",
+      "text": "A local culinary workers' union organized Monday's protest to demand the right to unionize at the hotel. According to the Huffington Post, which reported from the scene, Clinton's appearance was a surprise to the protesters.",
+      "layout": "bodyLayout",
+      "textStyle": "bodyStyle",
+      "format": "markdown"
+    },
+    {
+      "role": "body",
+      "text": "\"When we're here together in solidarity to organize, we also want to send a message to Mr. Trump: that if you're going to run for president, then you should represent all the people of the United States, and that includes hard-working people,\" Clinton said at the Trump International Hotel. Not only has Trump insulted immigrants and promised to deport 11 million people if he is elected president, but workers in many of his properties reportedly face low wages and difficult conditions.",
+      "layout": "bodyLayout",
+      "textStyle": "bodyStyle",
+      "format": "markdown"
+    },
+    {
+      "role": "figure",
+      "URL": "bundle://1.jpg",
+      "layout": "bodyImageLayout",
+      "animation": {
+        "type": "appear"
+      }
+    },
+    {
+      "role": "body",
+      "text": "\"When we're here together in solidarity to organize, we also want to send a message to Mr. Trump: that if you're going to run for president, then you should represent all the people of the United States, and that includes hard-working people,\" Clinton said at the Trump International Hotel. Not only has Trump insulted immigrants and promised to deport 11 million people if he is elected president, but workers in many of his properties reportedly face low wages and difficult conditions.",
+      "layout": "bodyLayout",
+      "textStyle": "bodyStyle",
+      "format": "markdown"
+    },
+    {
+      "role": "tweet",
+      "URL": "https://twitter.com/billclinton/status/654133694664450048",
+      "layout": "tweetLayout"
+    },
+    {
+      "role": "body",
+      "text": "\"When we're here together in solidarity to organize, we also want to send a message to Mr. Trump: that if you're going to run for president, then you should represent all the people of the United States, and that includes hard-working people,\" Clinton said at the Trump International Hotel. Not only has Trump insulted immigrants and promised to deport 11 million people if he is elected president, but workers in many of his properties reportedly face low wages and difficult conditions.",
+      "layout": "bodyLayout",
+      "textStyle": "bodyStyle",
+      "format": "markdown"
+    },
+    {
+      "role": "body",
+      "text": "\"When we're here together in solidarity to organize, we also want to send a message to Mr. Trump: that if you're going to run for president, then you should represent all the people of the United States, and that includes hard-working people,\" Clinton said at the Trump International Hotel. Not only has Trump insulted immigrants and promised to deport 11 million people if he is elected president, but workers in many of his properties reportedly face low wages and difficult conditions.",
+      "layout": "bodyLayout",
+      "textStyle": "bodyStyle",
+      "format": "markdown"
+    },
+    {
+      "role": "heading",
+      "text": "Here Is a Headline Two",
+      "layout": "h2Layout",
+      "textStyle": "h2Style"
+    },
+    {
+      "role": "figure",
+      "URL": "bundle://2.jpg",
+      "layout": "bodyImageLayout",
+      "animation": {
+        "type": "appear"
+      }
+    },
+    {
+      "role": "body",
+      "text": "\"When we're here together in solidarity to organize, we also want to send a message to Mr. Trump: that if you're going to run for president, then you should represent all the people of the United States, and that includes hard-working people,\" Clinton said at the Trump International Hotel. Not only has Trump insulted immigrants and promised to deport 11 million people if he is elected president, but workers in many of his properties reportedly face low wages and difficult conditions.",
+      "layout": "bodyLayout",
+      "textStyle": "bodyStyle",
+      "format": "markdown"
+    },
+    {
+      "role": "embedwebvideo",
+      "URL": "https://www.youtube.com/watch?v=6D_yeA8aaOM",
+      "layout": "embedvideoLayout"
+    },
+    {
+      "role": "figure",
+      "URL": "bundle://3.jpg",
+      "layout": "bodyImageLayout",
+      "animation": {
+        "type": "appear"
+      }
+    },
+    {
+      "role": "body",
+      "text": "\"You have to say...'no' to efforts to prevent you from organizing, to prevent you from having the kind of working conditions you deserve, the kind of wages that are going to give you a living wage,\" Clinton said.",
+      "layout": "bodyLayout",
+      "textStyle": "bodyStyle",
+      "format": "markdown"
+    },
+    {
+      "role": "figure",
+      "URL": "bundle://4.jpg",
+      "layout": "bodyImageLayout",
+      "animation": {
+        "type": "appear"
+      }
+    },
+    {
+      "role": "body",
+      "text": "\"When we're here together in solidarity to organize, we also want to send a message to Mr. Trump: that if you're going to run for president, then you should represent all the people of the United States, and that includes hard-working people,\" Clinton said at the Trump International Hotel. Not only has Trump insulted immigrants and promised to deport 11 million people if he is elected president, but workers in many of his properties reportedly face low wages and difficult conditions.",
+      "layout": "bodyLayout",
+      "textStyle": "bodyStyle",
+      "format": "markdown"
+    },
+    {
+      "role": "instagram",
+      "URL": "https://instagram.com/p/79Ldh3MbrQ/",
+      "layout": "instagramLayout"
+    },
+    {
+      "role": "body",
+      "text": "Clinton and other Democratic candidates have said they would support strengthening union rights and raising the minimum wage, although Vermont Senator Bernie Sanders has been the most vocal supporter of policies aimed at improving conditions for low-wage workers.",
+      "layout": "bodyLayout",
+      "textStyle": "bodyStyle"
+    },
+    {
+      "role": "medium_rectangle_advertisement"
+    }
+  ],
+  "componentTextStyles": {
+    "titleStyle": {
+      "textAlignment": "center",
+      "fontName": "PlayfairDisplay-Bold",
+      "fontSize": 55,
+      "lineHeight": 66,
+      "textColor": "#000"
+    },
+    "h1Style": {
+      "textAlignment": "left",
+      "fontName": "PlayfairDisplay-Bold",
+      "fontSize": 40,
+      "lineHeight": 60,
+      "textColor": "#000"
+    },
+    "h2Style": {
+      "textAlignment": "left",
+      "fontName": "PlayfairDisplay-Bold",
+      "fontSize": 20,
+      "lineHeight": 52,
+      "textColor": "#000"
+    },
+    "bylineStyle": {
+      "textAlignment": "center",
+      "fontName": "BrownStd-Regular",
+      "fontSize": 10,
+      "tracking": 0.1,
+      "textColor": "#000000"
+    },
+    "attributionStyle": {
+      "textAlignment": "left",
+      "fontName": "BrownStd-Light",
+      "fontSize": 10,
+      "textColor": "#777"
+    },
+    "dropcapBodyStyle": {
+      "textAlignment": "left",
+      "fontName": "Georgia",
+      "fontSize": 16,
+      "lineHeight": 24,
+      "textColor": "#000",
+      "dropCapStyle": {
+        "numberOfLines": 2,
+        "numberOfCharacters": 1,
+        "fontName": "PlayfairDisplay-Bold",
+        "textColor": "#000"
+      }
+    },
+    "bodyStyle": {
+      "textAlignment": "left",
+      "fontName": "Georgia",
+      "fontSize": 16,
+      "lineHeight": 25,
+      "textColor": "#000"
+    },
+    "pullquoteStyle": {
+      "textAlignment": "center",
+      "fontName": "BrownStd-Regular",
+      "tracking": 0.1,
+      "fontSize": 35,
+      "lineHeight": 42,
+      "textColor": "#333333"
+    },
+    "pullquotebylineStyle": {
+      "textAlignment": "center",
+      "fontName": "BrownStd-Regular",
+      "fontSize": 10,
+      "textColor": "#333333",
+      "tracking": 0.1
+    },
+    "pullquotequoteStyle": {
+      "textAlignment": "center",
+      "fontName": "PlayfairDisplay-Bold",
+      "fontSize": 25,
+      "textColor": "#333333",
+      "tracking": 0.1
+    }
+  },
+  "componentLayouts": {
+    "headerContainerLayout": {
+      "columnStart": 0,
+      "columnSpan": 7,
+      "ignoreDocumentMargin": "both",
+      "minimumHeight": "50vh"
+    },
+    "titleLayout": {
+      "columnStart": 0,
+      "columnSpan": 7,
+      "contentInset": {
+        "left": false,
+        "right": false
+      },
+      "margin": {
+        "top": 5,
+        "bottom": 15
+      }
+    },
+    "h1Layout": {
+      "columnStart": 0,
+      "columnSpan": 7,
+      "margin": {
+        "top": 15,
+        "bottom": 5
+      }
+    },
+    "h2Layout": {
+      "columnStart": 0,
+      "columnSpan": 7,
+      "margin": {
+        "top": 15,
+        "bottom": 5
+      }
+    },
+    "bylineLayout": {
+      "columnStart": 0,
+      "columnSpan": 7,
+      "margin": {
+        "top": 5,
+        "bottom": 5
+      }
+    },
+    "attributionLayout": {
+      "columnStart": 1,
+      "columnSpan": 8,
+      "ignoreDocumentMargin": "both",
+      "margin": {
+        "top": 0,
+        "bottom": 0
+      }
+    },
+    "bodyLayout": {
+      "columnStart": 1,
+      "columnSpan": 8,
+      "margin": {
+        "top": 10,
+        "bottom": 10
+      }
+    },
+    "captionLayout": {
+      "columnStart": 0,
+      "columnSpan": 7,
+      "margin": {
+        "top": 15,
+        "bottom": 15
+      }
+    },
+    "galleryLayout": {
+      "columnStart": 0,
+      "columnSpan": 7,
+      "margin": {
+        "top": 25,
+        "bottom": 25
+      }
+    },
+    "bodyImageLayout": {
+      "columnStart": 0,
+      "columnSpan": 8,
+      "ignoreDocumentMargin": "both",
+      "margin": {
+        "top": 0,
+        "bottom": 2
+      }
+    },
+    "tweetLayout": {
+      "columnStart": 0,
+      "columnSpan": 7,
+      "margin": {
+        "top": 10,
+        "bottom": 10
+      }
+    },
+    "instagramLayout": {
+      "columnStart": 1,
+      "columnSpan": 5,
+      "margin": {
+        "top": 10,
+        "bottom": 10
+      }
+    },
+    "embedvideoLayout": {
+      "margin": {
+        "top": 10,
+        "bottom": 10
+      }
+    },
+    "pullquoteLayout": {
+      "columnStart": 0,
+      "columnSpan": 7,
+      "contentInset": {
+        "left": true,
+        "right": true
+      },
+      "margin": {
+        "top": 10,
+        "bottom": 10
+      }
+    },
+    "pullquotebylineLayout": {
+      "columnStart": 0,
+      "columnSpan": 7,
+      "contentInset": {
+        "left": true,
+        "right": true
+      },
+      "margin": {
+        "top": 0,
+        "bottom": 30
+      }
+    }
+  }
+}
