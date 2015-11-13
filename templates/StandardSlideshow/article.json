@@ -1,0 +1,366 @@
+{
+  "version": "1.0",
+  "identifier": "R29_Standard_Slideshow",
+  "title": "Refinery29 Standard Slideshow",
+  "language": "en",
+  "layout": {
+    "columns": 7,
+    "width": 1024,
+    "margin": 80,
+    "gutter": 40
+  },
+  "metadata": {
+    "datePublished": "2015-10-24T11:15:00+00:00",
+    "dateCreated": "2015-10-24T11:15:00+00:00",
+    "dateModified": "2015-10-24T11:15:00+00:00",
+    "authors": [
+      "Refinery"
+    ],
+    "generatorName": "Generator",
+    "generatorVersion": "1.0",
+    "thumbnailURL": "bundle://start.jpg",
+    "canonicalURL": "http://www.refinery29.com",
+    "keywords": [
+      "China",
+      "Business",
+      "Industry",
+      "Culture"
+    ],
+    "excerpt": "Hillary Clinton Takes On Donald Trump At Vegas Protest"
+  },
+  "components": [
+    {
+      "role": "figure",
+      "URL": "bundle://start.jpg",
+      "layout": "bodyImageLayout",
+      "animation": {
+        "type": "appear"
+      }
+    },
+    {
+      "role": "title",
+      "text": "If You're 30 & Not Doing This, You Should Start",
+      "layout": "titleLayout",
+      "textStyle": "titleStyle"
+    },
+    {
+      "role": "divider",
+      "layout": {
+        "columnStart": 2,
+        "columnSpan": 6
+      },
+      "stroke": {
+        "color": "#e8e8e8",
+        "width": 1
+      }
+    },
+    {
+      "role": "byline",
+      "text": "Meredith Clark - November 3, 2015 10:40 AM",
+      "layout": "bylineLayout",
+      "textStyle": "bylineStyle"
+    },
+    {
+      "role": "divider",
+      "layout": {
+        "columnStart": 0,
+        "columnSpan": 7
+      },
+      "stroke": {
+        "color": "#e8e8e8",
+        "width": 1
+      }
+    },
+    {
+      "role": "body",
+      "text": "The cult worship of Santa Muerte (typically translated as \"Holy Death\" or \"Saint Death\") is a misunderstood — if culturally prevalent — phenomenon. Though the practice is likely rooted in pre-Columbian Aztec culture, it's most strongly associated with the recent rise of narcotics-related violence in Mexico. (Many U.S. folks were first exposed to Santa Muerte through a Breaking Bad plot wherein the murderous Salamanca cousins make offerings to the saint before undertaking assassinations.).\nSanta Muerte is often confused with La Catrina, the playful, political, face-painted skeleton costume favored by many Mexicans when celebrating Dia de Los Muertes (Day of the Dead) festivities. La Catrina originates from a satirical cartoon from the turn of the 20th century, while Santa Muerte's origins are less clear; many believe her current form to be a mixture of an early Aztec death goddess and \"La Parca,\" the female European Grim Reaper.\nSince Santa Muerte is a folk saint, not one who was canonized by the Catholic church, worship of her has been condemned by Cardinal Ravasi, the president of the Pontifical Council for Culture. And while the Catholic priesthood remains open solely to men, two major figures in the worship of Santa Muerte are women. Indeed, her female characterization is unusual even within the cult worship of death. \"While folk saints abound in the Americas, and other supernatural skeletons work miracles in Guatemala and Argentina, Santa Muerte stands alone as the sole female saint of death from Chile to Canada,\" writes Andrew Chesnut, PhD, in his book Devoted to Death: Santa Muerte, the Skeleton Saint. \nOne of the most visible individuals in Santa Muerte is Enriqueta Romero, 70, better known as Doña Queta, who has offered a public shrine to Santa Muerte since 2001 in Mexico City’s Tepito barrio. She believes in death's essential feminine qualities, explaining that \"for centuries, Death has been feminine. Ever since the Aztecs.\" At her shrine, Doña Queta provides a special rosary service on the first day of every month, but worshippers are free to pay respects to Santa Muerta (or, as Queta calls her, La Flaquita — \"The Skinny Girl\") any time.\nJust on the border of Mexico City, another woman, Enriqueta Vargas, also known as La Madrina, presides over The International Temple of Santa Muerte altar. She overtook leadership of the temple in 2008, following the shooting and death of her founder son, Jonathan Legaria Vargas. Initially, Enriqueta Vargas encountered skepticism in her leadership role, because of her gender: \"People would not accept me because I was a woman, and I told them that I was so much more than that — that I was a lot smarter than them, and I was going to prove it,\" she told Refinery29. Now, Vargas' temple draws scores of devotees to worship the saint and receive spiritual blessings. \nBoth Enriquetas allowed Refinery29 an intimate look at the people, spiritual cleanings, and offerings that make up the worship of Santa Muerte. They both urge the observant to live life without fear of death, but to remain reverent towards her. Indeed, the sign above Doña Queta's shrine echoes this sentiment: \"Fear not wherever you go, for you shall die where you must.\"\nAhead, 35 photos show the many sides of the worship of Santa Muerte. \nReporting and Spanish translation provided by Janet Jarman.",
+      "layout": "bodyLayout",
+      "textStyle": "bodyStyle",
+      "format": "markdown"
+    },
+    {
+      "role": "body",
+      "text": "A woman prays at one of several individual chapels at The International Temple of Santa Muerte, located on the border of Mexico City. The temple was inaugurated in December of 2007 by Jonathan Legaria Vargas, who was gunned down in July 2008 while driving nearby. His mother, Enriqueta Vargas, also known as La Madrina, eventually took over leadership of the temple, hoping to carry on his mission. \nHundreds of devotees worship at the temple each Sunday. The temple is open during the week also, offering a place where Santa Muerte followers can pray, receive a cleansing or “limpia,” or purchase an array of religious ephemera, including elaborate replicas of Santa Muerte.",
+      "layout": "bodyLayout",
+      "textStyle": "bodyStyle",
+      "format": "markdown"
+    },
+    {
+      "role": "body",
+      "text": "A woman prays at one of several individual chapels at The International Temple of Santa Muerte, located on the border of Mexico City. The temple was inaugurated in December of 2007 by Jonathan Legaria Vargas, who was gunned down in July 2008 while driving nearby. His mother, Enriqueta Vargas, also known as La Madrina, eventually took over leadership of the temple, hoping to carry on his mission. Hundreds of devotees worship at the temple each Sunday. The temple is open during the week also, offering a place where Santa Muerte followers can pray, receive a cleansing or “limpia,” or purchase an array of religious ephemera, including elaborate replicas of Santa Muerte.",
+      "layout": "bodyLayout",
+      "textStyle": "bodyStyle",
+      "format": "markdown"
+    },
+    {
+      "role": "body",
+      "text": "A 22-meter statue of Santa Muerte towers over The International Temple. Although the practice of worshipping Santa Muerte has been denounced by the Catholic Church as Satanic, the cult has seen a marked increase in followers in Mexico during the past decade.",
+      "layout": "bodyLayout",
+      "textStyle": "bodyStyle",
+      "format": "markdown"
+
+    },
+    {
+      "role": "body",
+      "text": "Various offerings of flowers, statuettes, fruit, alcohol, and tobacco products at the International Temple of Santa Muerte.",
+      "layout": "bodyLayout",
+      "textStyle": "bodyStyle",
+      "format": "markdown"
+    },
+    {
+      "role": "figure",
+      "URL": "bundle://slide1.jpg",
+      "layout": "bodyImageLayout",
+      "caption": "PHOTOGRAPHED BY JANET JARMAN/REDUX.",
+      "animation": {
+        "type": "appear"
+      }
+    },
+    {
+      "role": "byline",
+      "text": " PHOTOGRAPHED BY JANET JARMAN/REDUX.P",
+      "layout": "attributionLayout",
+      "textStyle": "attributionStyle"
+    },
+    {
+      "role": "figure",
+      "URL": "bundle://slide2.jpg",
+      "layout": "bodyImageLayout",
+      "caption": "PHOTOGRAPHED BY JANET JARMAN/REDUX.",
+      "animation": {
+        "type": "appear"
+      }
+    },
+    {
+      "role": "byline",
+      "text": " PHOTOGRAPHED BY JANET JARMAN/REDUX.P",
+      "layout": "attributionLayout",
+      "textStyle": "attributionStyle"
+    },
+    {
+      "role": "figure",
+      "URL": "bundle://slide3.jpg",
+      "layout": "bodyImageLayout",
+      "caption": "PHOTOGRAPHED BY JANET JARMAN/REDUX.",
+      "animation": {
+        "type": "appear"
+      }
+    },
+    {
+      "role": "byline",
+      "text": " PHOTOGRAPHED BY JANET JARMAN/REDUX.P",
+      "layout": "attributionLayout",
+      "textStyle": "attributionStyle"
+    },
+  ],
+  "componentTextStyles": {
+    "titleStyle": {
+      "textAlignment": "center",
+      "fontName": "PlayfairDisplay-Bold",
+      "fontSize": 55,
+      "lineHeight": 66,
+      "textColor": "#000"
+    },
+    "h1Style": {
+      "textAlignment": "left",
+      "fontName": "PlayfairDisplay-Bold",
+      "fontSize": 40,
+      "lineHeight": 60,
+      "textColor": "#000"
+    },
+    "h2Style": {
+      "textAlignment": "left",
+      "fontName": "PlayfairDisplay-Bold",
+      "fontSize": 20,
+      "lineHeight": 52,
+      "textColor": "#000"
+    },
+    "bylineStyle": {
+      "textAlignment": "center",
+      "fontName": "BrownStd-Regular",
+      "fontSize": 10,
+      "tracking": 0.1,
+      "textColor": "#000000"
+    },
+    "attributionStyle": {
+      "textAlignment": "left",
+      "fontName": "BrownStd-Light",
+      "fontSize": 10,
+      "textColor": "#777"
+    },
+    "dropcapBodyStyle": {
+      "textAlignment": "left",
+      "fontName": "Georgia",
+      "fontSize": 16,
+      "lineHeight": 24,
+      "textColor": "#000",
+      "dropCapStyle": {
+        "numberOfLines": 2,
+        "numberOfCharacters": 1,
+        "fontName": "PlayfairDisplay-Bold",
+        "textColor": "#000"
+      }
+    },
+    "bodyStyle": {
+      "textAlignment": "left",
+      "fontName": "Georgia",
+      "fontSize": 16,
+      "lineHeight": 25,
+      "textColor": "#000"
+    },
+    "pullquoteStyle": {
+      "textAlignment": "center",
+      "fontName": "BrownStd-Regular",
+      "tracking": 0.1,
+      "fontSize": 35,
+      "lineHeight": 42,
+      "textColor": "#333333"
+    },
+    "pullquotebylineStyle": {
+      "textAlignment": "center",
+      "fontName": "BrownStd-Regular",
+      "fontSize": 10,
+      "textColor": "#333333",
+      "tracking": 0.1
+    },
+    "pullquotequoteStyle": {
+      "textAlignment": "center",
+      "fontName": "PlayfairDisplay-Bold",
+      "fontSize": 25,
+      "textColor": "#333333",
+      "tracking": 0.1
+    }
+  },
+  "componentLayouts": {
+    "headerContainerLayout": {
+      "columnStart": 0,
+      "columnSpan": 7,
+      "ignoreDocumentMargin": "both",
+      "minimumHeight": "50vh"
+    },
+    "titleLayout": {
+      "columnStart": 0,
+      "columnSpan": 7,
+      "contentInset": {
+        "left": false,
+        "right": false
+      },
+      "margin": {
+        "top": 5,
+        "bottom": 15
+      }
+    },
+    "h1Layout": {
+      "columnStart": 0,
+      "columnSpan": 7,
+      "margin": {
+        "top": 15,
+        "bottom": 5
+      }
+    },
+    "h2Layout": {
+      "columnStart": 0,
+      "columnSpan": 7,
+      "margin": {
+        "top": 15,
+        "bottom": 5
+      }
+    },
+    "bylineLayout": {
+      "columnStart": 0,
+      "columnSpan": 7,
+      "margin": {
+        "top": 5,
+        "bottom": 5
+      }
+    },
+    "attributionLayout": {
+      "columnStart": 1,
+      "columnSpan": 8,
+      "ignoreDocumentMargin": "both",
+      "margin": {
+        "top": 0,
+        "bottom": 0
+      }
+    },
+    "bodyLayout": {
+      "columnStart": 1,
+      "columnSpan": 8,
+      "margin": {
+        "top": 10,
+        "bottom": 10
+      }
+    },
+    "captionLayout": {
+      "columnStart": 0,
+      "columnSpan": 7,
+      "margin": {
+        "top": 15,
+        "bottom": 15
+      }
+    },
+    "galleryLayout": {
+      "columnStart": 0,
+      "columnSpan": 7,
+      "margin": {
+        "top": 25,
+        "bottom": 25
+      }
+    },
+    "bodyImageLayout": {
+      "columnStart": 0,
+      "columnSpan": 8,
+      "ignoreDocumentMargin": "both",
+      "margin": {
+        "top": 20,
+        "bottom": 1
+      }
+    },
+    "tweetLayout": {
+      "columnStart": 0,
+      "columnSpan": 7,
+      "margin": {
+        "top": 10,
+        "bottom": 10
+      }
+    },
+    "instagramLayout": {
+      "columnStart": 1,
+      "columnSpan": 5,
+      "margin": {
+        "top": 10,
+        "bottom": 10
+      }
+    },
+    "embedvideoLayout": {
+      "margin": {
+        "top": 10,
+        "bottom": 10
+      }
+    },
+    "pullquoteLayout": {
+      "columnStart": 0,
+      "columnSpan": 7,
+      "contentInset": {
+        "left": true,
+        "right": true
+      },
+      "margin": {
+        "top": 10,
+        "bottom": 10
+      }
+    },
+    "pullquotebylineLayout": {
+      "columnStart": 0,
+      "columnSpan": 7,
+      "contentInset": {
+        "left": true,
+        "right": true
+      },
+      "margin": {
+        "top": 0,
+        "bottom": 30
+      }
+    }
+  }
+}
